@@ -9,3 +9,7 @@ for i in range (0, 5):
 print("Exit")
 
 
+
+for name in ("john" , "jack" , "jane"):
+    print(name)
+
