@@ -17,3 +17,4 @@ print("tojás" + 5)
 print(5 + "tojás")
 print("tojás" - "fehérje")
 print("tojás" * "fehérje")
+
