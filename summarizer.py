@@ -13,11 +13,11 @@
 #     numbers = int(input("Írj be 3 számot! "))
 
 # Tanár
-count = int(input("Hány számot szeretnél megadni? "))
-for i in range(count):
-    number = int(input("Add meg a " + str(i+1) + ". számot! "))
-    print("A megadott szám:", number)
-    if number > 0:
-        sum += number
-        print("Részösszeg:", sum)
-print("Végső összeg:", sum)
+# count = int(input("Hány számot szeretnél megadni? "))
+# for i in range(count):
+#     number = int(input("Add meg a " + str(i+1) + ". számot! "))
+#     print("A megadott szám:", number)
+#     if number > 0:
+#         sum += number
+#         print("Részösszeg:", sum)
+# print("Végső összeg:", sum)
