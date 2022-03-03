@@ -15,7 +15,7 @@ for month in ["january","february","march"]:
 print("end")
 
 #
-i=1
-for month in ["Januar", "Februar", "Marcius"]:
-    print("Az év",i, ". honapja", month)
-    i=i+1
+# i=1
+# for month in ["Januar", "Februar", "Marcius"]:
+#     print("Az év",i, ". honapja", month)
+#     i=i+1

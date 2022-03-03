@@ -11,3 +11,6 @@ print(""""Aprócska kalapocska
 benne csacska
 macska
 mocska""")
+
+print(-6 // 4)
+print(5 % 2)

@@ -22,6 +22,8 @@ print(type(5)) # int = integer
 print(type(3.14)) # float = lebegőpontos szám
 print(type("John Doe")) # str = string - karakterlánc
 
+
+
 age = 32
 print(type(age))
 
@@ -37,3 +39,5 @@ print(salary)
 salary = "kétszáz"
 print(salary)
 
+salary = int = 200
+print(salary)

@@ -10,6 +10,6 @@ print("Exit")
 
 
 
-for name in ("john" , "jack" , "jane"):
+for name in ["john" , "jack" , "jane"]:
     print(name)
 

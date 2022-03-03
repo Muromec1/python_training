@@ -36,3 +36,4 @@ while False:
 number = int(input("Írj be egy számot"))
 while number > 0:
     print(number * 2)
+
