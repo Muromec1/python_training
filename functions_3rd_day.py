@@ -1,11 +1,11 @@
 # Írjatok egy get_max nevű függvényt, melynek paraméterül át lehet adni 2 lebegőpontos számot.
 # Adja vissza a kettő közül a nagyobbat
 
-# def get_max(num1: float, num2: float) -> float:
-#     if num1 > num2:
-#         return (num1)
-#     else:
-#         return (num2)
+def get_max(num1: float, num2: float) -> float:
+    if num1 > num2:
+        return (num1)
+    else:
+        return (num2)
 #
 #
 # print(get_max(4.5, 7.3))
