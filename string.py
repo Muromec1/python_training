@@ -40,8 +40,16 @@ def letter_a_counter(word):
     counter = 0
     for c in word:
         if c == "a":
-            counter += counter + 1
+            counter = counter + 1
     return counter
 
 print(letter_a_counter("alma"))
 
+## Írj egy olyan függvényt, amely paraméterül kap
+## egy szót, és megszámolja, hogy hány magánhangzó van benne
+
+
+
+# c = "a"
+# print(c in "aeiou")
+# print(c in "éíóöőüű")
